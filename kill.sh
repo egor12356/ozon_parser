@@ -1,0 +1,9 @@
+pkill -f main.py
+pkill -f chromedriver
+pkill -f chromium
+pkill -f chrome
+pkill -f Xvnc
+pkill -f Xvfb
+pkill -f Xephyr
+pkill -f main.py
+pkill -f bot.py
